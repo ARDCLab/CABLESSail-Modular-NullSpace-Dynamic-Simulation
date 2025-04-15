@@ -1,0 +1,11 @@
+Figures*
+*.fig
+*.png
+*.eps
+*.pdf
+
+# Ignore Autosave files
+*.asv
+
+# Ignore macOS Finder metadata
+.DS_Store
